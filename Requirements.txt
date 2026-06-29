@@ -1,0 +1,16 @@
+## Dependencies
+
+-numpy
+-pandas
+-matplotlib
+-scikit-learn
+-jupyter
+
+## Software Used
+
+- ANSYS Electronics Desktop
+- ANSYS Maxwell
+- RMxprt
+- Jupyter Notebook
+- Python 3.x
+
